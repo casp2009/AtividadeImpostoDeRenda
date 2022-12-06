@@ -40,4 +40,4 @@ Precisamos de um método que calcule o valor em R$ de todos os impostos pagos po
 1. Considerando que deve-se garantir que o cálculo inclua o valor do IR, que padrão de projeto pode ser aplicado para isto?
 Lembrando que não necessariamente o padrão precisa ser aplicado, pois podemos resolver de uma forma simples. Tudo depende do problema em questão. Considerando que existem diversas maneiras de calcular o IR para PJ e que precisaríamos trocar uma implementação pela outra de acordo com determinadas condições, isto justificaria a implementação de um padrão.
 
-Não foi utilizado nenhum padrão esécifico, somente POO.
+Não foi utilizado nenhum padrão especifico, somente POO.
